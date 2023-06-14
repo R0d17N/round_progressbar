@@ -5,7 +5,7 @@ Instructions for using your project (project name) for other users who will clon
 
 Cloning a repository:
 
-Clone the repository (name of your project) to your local machine using the git clone https://github.com/R0d17N/repository-name.git command.
+Clone the repository (name of your project) to your local machine using the git clone https://github.com/R0d17N/round_progressbar command.
 Dependencies and environment:
 
 Make sure you have the necessary dependencies and environments installed as specified in the project documentation. This may include the programming language, framework, libraries, and other components required to make your project work.
